@@ -1,0 +1,10 @@
+* s-http-client
+
+A Common Lisp HTTP Client.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/svenvc/s-http-client.git   |
+| commit  | a604cef  |
+| systems | s-http-client |
+|---------+-------------------------------------------|
+
